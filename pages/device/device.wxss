@@ -1,0 +1,13 @@
+.scene {
+  display: grid;
+  grid-template-rows: auto auto auto auto;
+  grid-template-columns: 50% 50%;
+  width: 100vw;
+}
+.scene_card {
+  border-radius: 10px;
+  min-height:20vh;
+  margin:5px;
+  padding:5px;
+  background-color: #fff000;
+}

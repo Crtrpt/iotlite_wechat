@@ -1,0 +1,8 @@
+<!--pages/me/user.wxml-->
+<view class="overview">
+  <view class="row">
+    <image class="col-3 avatar" src="/image/icon_API_HL.png"></image>
+    <text  class="col-9 user_name">{{"用户页面"}}</text>
+  </view>
+
+</view>

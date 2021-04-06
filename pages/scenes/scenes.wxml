@@ -1,0 +1,6 @@
+
+<view class="scene">
+  <view class="scene_card" wx:for="{{list}}" wx:key="{{index}}">
+      {{item.name}} 
+  </view>
+</view>
